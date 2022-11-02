@@ -9,7 +9,7 @@ PS: |cidqu| means there is a game code that cannot be written as normal human la
 
 Example:
 ```
-Please don't worget the |cidqu|, we may need it soon!
+Please don't forget the |cidqu|, we may need it soon!
 ```
 
 Translated:
