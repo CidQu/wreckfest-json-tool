@@ -1,2 +1,6 @@
 # wreckfest-json-tool
-JSON Extractor and Importer tool for Wreckfest
+JSON Export and Import tool for Wreckfest
+
+This script will export and import Wreckfest json language files.
+
+Import will add soon.
